@@ -1,0 +1,6 @@
+{
+  "name": "PlacePath",
+  "description": "Build Your Path. Achieve Your Goals. A personal student career and academic command center for engineering students with Python, Streamlit, and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
